@@ -1,5 +1,6 @@
 # Sp-cialiste_WIFI
 “Wi-Fi Ninja” 🥷📶
+![WIFI Specialist Banner](ChatGPT Image 7 mai 2025, 11_59_54.png)
 # 📶 Le métier de Spécialiste Wi-Fi (Wireless Engineer)
 
 Bienvenue sur ce repository dédié au métier de **Spécialiste Wi-Fi** !  
