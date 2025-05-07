@@ -1,5 +1,5 @@
-![WIFI Specialist Banner](./wifispecialist.png/)
 # “Wi-Fi Ninja” 🥷📶
+![WIFI Specialist Banner](./wifispecialist.png/)
 # 📶 Le métier de Spécialiste Wi-Fi (Wireless Engineer)
 
 Bienvenue sur ce repository dédié au métier de **Spécialiste Wi-Fi** !  
